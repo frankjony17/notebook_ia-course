@@ -19,3 +19,7 @@ Note: Several of the attributes in the database could be used as a "class" attri
 
 https://www.kaggle.com/toramky/automobile-dataset?select=Automobile_data.csv
 
+# import sklearn
+# sorted(sklearn.metrics.SCORERS.keys())
+
+Dataset: https://drive.google.com/drive/folders/11KOhoeCjZByS_S-g9cnLtceBm32al9rC?usp=sharing
